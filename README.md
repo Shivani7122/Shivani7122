@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivani Gupta</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer;Building+Real+World+Projects" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shivani7122&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -9,16 +15,16 @@
 ## 👩‍💻 About Me
 
 🎓 B.Tech Computer Science Student (AKTU)  
-📊 Currently learning **Data Science & Machine Learning**  
+📊 Learning **Data Science, Machine Learning & Python Backend**  
 🚀 Preparing for **GATE Data Analytics 2026**  
-💡 Interested in **AI, ML and Data Science**
+💡 Interested in **AI, ML, Data Analytics and Real World Applications**
 
 ---
 
-## 🚀 Skills & Technologies
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,git,github,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,git,github,firebase,vscode,linux" />
 </p>
 
 ---
@@ -43,26 +49,34 @@
 
 ---
 
-## 🚀 Projects
+## 📈 Contribution Activity
 
-🔹 **Titanic Survival Prediction**  
-Machine Learning model to predict passenger survival.
-
-🔹 **QR Code Scanner App**  
-Android application that scans QR codes using camera.
-
-🔹 **Stop Watch App**  
-Android stopwatch app with start, stop and reset.
-
-🔹 **Volume & Area Calculator App**  
-Android app for geometric calculations.
-
-🔹 **AI-Powered Sign Language Interpreter**  
-Machine learning model to interpret sign language gestures.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivani7122&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Projects
+
+🔹 **Titanic Survival Prediction**  
+Machine learning model predicting passenger survival using Python.
+
+🔹 **QR Code Scanner App**  
+Android app that scans QR codes using camera integration.
+
+🔹 **Stop Watch App**  
+Android stopwatch with start, stop and reset functionality.
+
+🔹 **Volume & Area Calculator App**  
+Application to calculate geometric volumes and areas.
+
+🔹 **AI-Powered Sign Language Interpreter**  
+Machine learning project to interpret sign language gestures.
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -78,4 +92,10 @@ Machine learning model to interpret sign language gestures.
 
 ---
 
-⭐ *Always learning, always building.*
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ **Always learning, always building cool things.**
