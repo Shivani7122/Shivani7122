@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivani Gupta</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Future+AI+Engineer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 
 🎓 B.Tech Computer Science Student (AKTU)  
 📊 Passionate about **Data Science & Machine Learning**  
-🚀 Preparing for **GATE Data Analytics 2026**  
-💡 Interested in **AI, Data Analytics & Backend Development**
+💡 Interested in **AI, Data Analytics & Backend Development**  
+🚀 Building projects and continuously improving my skills
 
 ---
 
@@ -45,16 +45,16 @@
 Machine learning model predicting passenger survival using Python.
 
 🔹 **QR Code Scanner App**  
-Android app that scans QR codes using camera integration.
+Android application that scans QR codes using camera integration.
 
 🔹 **Stop Watch App**  
-Android stopwatch with start, stop and reset functionality.
+Android stopwatch application with start, stop and reset functionality.
 
 🔹 **Volume & Area Calculator App**  
 Application to calculate geometric volumes and areas.
 
 🔹 **AI-Powered Sign Language Interpreter**  
-Machine learning model to interpret sign language gestures.
+Machine learning project to interpret sign language gestures.
 
 ---
 
@@ -92,4 +92,4 @@ Machine learning model to interpret sign language gestures.
 
 ---
 
-⭐ *Always learning, always building cool things.*
+⭐ *Always learning, building and exploring new technologies.*
