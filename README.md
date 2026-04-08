@@ -1,5 +1,4 @@
-Conversation with Gemini
-You said
+
 <h1 align="center">Hi 👋, I'm Shivani Gupta</h1>
 
 
