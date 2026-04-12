@@ -3,6 +3,7 @@
 
 
 
+
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Aspiring+AI+Developer;Django+|+Agentic+AI+|+Generative+AI;;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
@@ -12,9 +13,7 @@
 
 
 <p align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
-
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 </p>
 
 
@@ -162,23 +161,8 @@
 
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shivani7122&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Shivani7122&label=Profile%20views&color=9D4EDD&style=for-the-badge" />
 </p>
-
-
-
----
-
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivani7122&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani7122&theme=tokyonight" />
-</p>
-
 
 
 ---
