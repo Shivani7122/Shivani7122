@@ -5,7 +5,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Scientist;Python+Developer;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Aspiring+AI+Developer;Django+|+Agentic+AI+|+Generative+AI;;Machine+Learning+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
 
 </p>
 
@@ -31,17 +31,15 @@
 
 
 
-## 👩‍💻 About Me
-
-
+## 👩‍💻 About Me  
 
 🎓 B.Tech Computer Science Student (AKTU)  
 
-📊 Passionate about **Data Science & Machine Learning**  
+💻 Passionate about **Full Stack Development with Python & Django**  
 
-💡 Interested in **AI, Data Analytics & Backend Development**  
+🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**  
 
-🚀 Building projects and continuously improving my skills
+🚀 Building real-world **AI-powered and full stack applications** while continuously improving my skills  
 
 
 
@@ -57,14 +55,10 @@
 
 
 
-## ⚡ Tech Stack
-
-
+## 🛠️ Tech Stack  
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,git,github,firebase,vscode,linux" />
-
+  <img src="https://skillicons.dev/icons?i=python,django,js,html,css,mongodb,mysql,java,kotlin"/>
 </p>
 
 
@@ -85,33 +79,37 @@
 
 
 
-🔹 **Titanic Survival Prediction**  
+🔹 **AI Financial Loan Assistant** 
 
-Machine learning model predicting passenger survival using Python.
-
-
-
-🔹 **QR Code Scanner App**  
-
-Android application that scans QR codes using camera integration.
+    AI system for predicting loan eligibility and financial insights
 
 
 
-🔹 **Stop Watch App**  
+🔹 **AI-Powered Sign Language Interpreter**   
 
-Android stopwatch application with start, stop and reset functionality.
+    Interprets sign language gestures into text using AI.
 
+
+
+🔹**Titanic Survival Prediction** 
+
+    Machine learning model to predict passenger survival. 
+
+
+🔹 **Bug Tracking System**  
+
+    Application to track and manage software bugs efficiently.
+
+
+🔹 **QR Code Scanner App**    
+
+    Android app for real-time QR code scanning.
 
 
 🔹 **Volume & Area Calculator App**  
 
-Application to calculate geometric volumes and areas.
-
-
-
-🔹 **AI-Powered Sign Language Interpreter**  
-
-Machine learning project to interpret sign language gestures.
+    Application to calculate geometric volumes and areas.
+ 
 
 
 
@@ -167,6 +165,18 @@ Machine learning project to interpret sign language gestures.
 
 <img src="https://komarev.com/ghpvc/?username=Shivani7122&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
+</p>
+
+
+
+---
+
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivani7122&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani7122&theme=tokyonight" />
 </p>
 
 
