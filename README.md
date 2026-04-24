@@ -80,34 +80,34 @@
 
 🔹 **AI Financial Loan Assistant** 
 
-    AI system for predicting loan eligibility and financial insights
+  AI system for predicting loan eligibility and financial insights
 
 
 
 🔹 **AI-Powered Sign Language Interpreter**   
 
-    Interprets sign language gestures into text using AI.
+  Interprets sign language gestures into text using AI.
 
 
 
 🔹**Titanic Survival Prediction** 
 
-    Machine learning model to predict passenger survival. 
+  Machine learning model to predict passenger survival. 
 
 
 🔹 **Bug Tracking System**  
 
-    Application to track and manage software bugs efficiently.
+  Application to track and manage software bugs efficiently.
 
 
 🔹 **QR Code Scanner App**    
 
-    Android app for real-time QR code scanning.
+  Android app for real-time QR code scanning.
 
 
 🔹 **Volume & Area Calculator App**  
 
-    Application to calculate geometric volumes and areas.
+  Application to calculate geometric volumes and areas.
  
 
 
